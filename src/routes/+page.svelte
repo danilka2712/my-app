@@ -18,16 +18,46 @@
     <div class="py-4">
         <p class="text-lg font-medium">Все услуги</p>
         <div class="grid grid-cols-3 gap-2 py-4">
-            <div class="bg-gray-50 h-32 rounded-lg p-2 text-sm font-medium">
-                Эвакуатор
+            <div
+                class="bg-[#f6f6f7] h-36 rounded-lg p-3 text-sm font-medium relative"
+            >
+                <p>Эвакуатор</p>
+                <img
+                    class="w-24 absolute bottom-0 right-7 h-20 translate-x-6 object-cover object-left"
+                    src="/image.png"
+                    alt=""
+                />
             </div>
-            <div class="bg-gray-50 h-32 rounded-lg p-2 text-sm font-medium">
-                Помощь на дороге
+            <div
+                class="bg-[#f6f6f7] h-36 rounded-lg p-3 text-sm font-medium relative"
+            >
+                <p class="z-20 relative">Помощь на дороге</p>
+                <img
+                    class="w-24 absolute bottom-0 right-7 h-20 translate-x-6 object-cover object-left"
+                    src="/image.png"
+                    alt=""
+                />
             </div>
-            <div class="bg-gray-50 h-32 rounded-lg p-2 text-sm font-medium">
-                Автоподбор
+            <div
+                class="bg-[#f6f6f7] h-36 rounded-lg p-3 text-sm font-medium relative"
+            >
+                <p>Эвакуатор</p>
+                <img
+                    class="w-24 absolute bottom-0 right-7 h-20 translate-x-6 object-cover object-left"
+                    src="/image.png"
+                    alt=""
+                />
             </div>
-            <div class="bg-gray-50 h-32 rounded-lg p-2">1</div>
+            <div
+                class="bg-[#f6f6f7] h-36 rounded-lg p-3 text-sm font-medium relative"
+            >
+                <p>Эвакуатор</p>
+                <img
+                    class="w-24 absolute bottom-0 right-7 h-20 translate-x-6 object-cover object-left"
+                    src="/image.png"
+                    alt=""
+                />
+            </div>
         </div>
     </div>
 </div>
