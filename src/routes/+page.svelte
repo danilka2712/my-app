@@ -12,8 +12,12 @@
         <DropdownItem>Earnings</DropdownItem>
         <DropdownItem>Sign out</DropdownItem>
     </Dropdown>
-    <div class="bg-gray-50 h-40 rounded-lg p-4">
-        <h1>Сервис</h1>
+    <div class="bg-gray-50 h-40 rounded-lg">
+        <img
+            src="/photo.webp"
+            class=" object-cover rounded-lg w-full h-full"
+            alt=""
+        />
     </div>
     <div class="py-4">
         <p class="text-lg font-medium">Все услуги</p>
